@@ -62,7 +62,7 @@
 
 							<!-- Start banner-ads Area -->
 							<div class="col-lg-12 ad-widget-wrap mt-30 mb-30">
-								<img class="img-fluid" src="img/banner-1.png" alt="">
+								<img class="img-fluid" src="img/baner.png" alt="">
 							</div>
 							<!-- End banner-ads Area -->
 

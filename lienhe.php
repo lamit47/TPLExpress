@@ -63,9 +63,9 @@
 									<span class="lnr lnr-home"></span>
 								</div>
 								<div class="contact-details">
-									<h5>Thành phố Đà Nẵng, Việt Nam</h5>
+									<h5>Thành phố Hồ Chí Minh, Việt Nam</h5>
 									<p>
-										51 Trần Quý Khách
+										422 Dao Tri Street, Phu Thuan Ward, District 7
 									</p>
 								</div>
 							</div>
@@ -74,8 +74,8 @@
 									<span class="lnr lnr-phone-handset"></span>
 								</div>
 								<div class="contact-details">
-									<h5>+84 969 732 701</h5>
-									<p>Thứ 2 - 7, từ 7h - 17h</p>
+									<p>From Monday to Friday, 08:00 – 17:00 (local time), call us at:</p>
+									<h5>(+84) 28 3773 3492</h5>
 								</div>
 							</div>
 							<div class="single-contact-address d-flex flex-row">
@@ -83,7 +83,7 @@
 									<span class="lnr lnr-envelope"></span>
 								</div>
 								<div class="contact-details">
-									<h5>ttnanh.18it5@sict.udn.vn</h5>
+									<h5>contact@tplshipping.com</h5>
 									<p>Gửi thắc mắc cho chúng tôi</p>
 								</div>
 							</div>

@@ -118,14 +118,13 @@
 						About TPL
 						</h1>
 						<p>
-							Magezine là một trang báo tin tức điện tử tổng hợp tin tức từ trang vnexpress.net.
-
+						Công ty Cổ phần Thương mại Vận tải biển TRƯỜNG PHÁT LỘC (TPL Shipping JSC) là một công ty vận tải biển quốc tế thành lập từ năm 2009 có đội tàu hóa chất và LPG khai thác tuyến Viễn Đông, Đông Nam Á, Ấn Độ và Trung Đông.
 						</p>
 						<div class="row no-gutters">
 							<div class="single-services col">
 								<span class="lnr lnr-diamond"></span>
 								<a href="#">
-									<h4>Magezine</h4>
+									<h4>TPL</h4>
 								</a>
 								<p>
 									Sẽ đồng hành giúp cùng bạn.
@@ -134,7 +133,7 @@
 							<div class="single-services col">
 								<span class="lnr lnr-phone"></span>
 								<a href="#">
-									<h4>Magezine</h4>
+									<h4>TPL</h4>
 								</a>
 								<p>
 									Sẽ cho bạn trải nghiệm tuyệt vời.
@@ -154,7 +153,7 @@
 					<div class="col-md-12 pb-50 header-text text-center">
 						<h1 class="mb-10">THANK YOU!</h1>
 						<p>
-							Wellcome to Magezine.
+							Wellcome to TPLExpress.
 						</p>
 					</div>
 				</div>
