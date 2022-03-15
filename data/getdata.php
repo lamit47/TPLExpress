@@ -49,9 +49,12 @@ if ($xml_giai_tri === false) {
 }
 
 $url_du_lich='https://vnexpress.net/rss/du-lich.rss';
+//Đọc nội dung của file truyền vào thành một mảng, mỗi dòng của file sẽ là 1 pt của mảng
 $lines_array_du_lich=file($url_du_lich);
+//Nối các pt của mảng lại thành 1 chuỗi
 $lines_string_du_lich=implode('',$lines_array_du_lich);
 
+//chuyển chuỗi xml thành obj
 $xml_du_lich = simplexml_load_string($lines_string_du_lich);
 if ($xml_du_lich === false) {
     echo "Failed loading XML: ";

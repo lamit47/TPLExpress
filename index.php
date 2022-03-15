@@ -86,7 +86,7 @@
 								<!-- START ENTERTAIMENT POST -->
 
 								<div class="single-sidebar-widget ads-widget">
-									<img class="img-fluid" src="img/banner-3.jpg" alt="">
+									<img class="img-fluid" src="img/baner.jpg" alt="">
 								</div>
 								<!-- START FUNPOST POST -->
 								<?php

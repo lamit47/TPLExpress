@@ -10,6 +10,7 @@
 			  break;
 			}
 			if (strpos($items->description, "src=")) {
+				//bóc tách ngăn cách bởi src và ></a></br>
 			  $str = explode('src=', $items->description);
 			  $str1 = explode('></a></br>', $str[1]);
 			?>
