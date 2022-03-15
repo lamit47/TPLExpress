@@ -62,13 +62,13 @@
 						<a href="tintuc.php?loaitin=du-lich&tenloaitin=Du Lịch">Du Lịch</a>
 			        </li>
 			        <li class="menu-has-children">
-			        	<a href="tintuc.php?loaitin=giai-tri&tenloaitin=Giải Trí">Giải Trí</a>
+						<a href="tintuc.php?loaitin=the-thao&tenloaitin=Thể Thao">Thể Thao</a>
 			        </li>
 					<li class="menu-has-children">
 						<a href="">Xem Thêm</a>
 						<ul>
 					        <li>
-					        	<a href="tintuc.php?loaitin=the-thao&tenloaitin=Thể Thao">Thể Thao</a>
+								<a href="tintuc.php?loaitin=giai-tri&tenloaitin=Giải Trí">Giải Trí</a>
 					        </li>
 					        <li>
 								<a href="tintuc.php?loaitin=startup&tenloaitin=Start Up">Start Up</a>
@@ -81,9 +81,9 @@
 					        </li>
 						</ul>
 					</li>
-					<li>
+					<!-- <li>
 						<a href="chitiet.php">Chi Tiết</a>
-					</li>
+					</li> -->
 					<li>
 						<a href="lienhe.php">Liên Hệ</a>
 					</li>
