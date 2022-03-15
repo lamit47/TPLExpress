@@ -59,7 +59,7 @@
 						<a href="tintuc.php?loaitin=the-gioi&tenloaitin=Thế Giới">Thế Giới</a>
 					</li>
 			        <li class="menu-has-children">
-			        	<a href="tintuc.php?loaitin=startup&tenloaitin=Startup">Startup</a>
+						<a href="tintuc.php?loaitin=du-lich&tenloaitin=Du Lịch">Du Lịch</a>
 			        </li>
 			        <li class="menu-has-children">
 			        	<a href="tintuc.php?loaitin=giai-tri&tenloaitin=Giải Trí">Giải Trí</a>
@@ -71,7 +71,7 @@
 					        	<a href="tintuc.php?loaitin=the-thao&tenloaitin=Thể Thao">Thể Thao</a>
 					        </li>
 					        <li>
-					        	<a href="tintuc.php?loaitin=du-lich&tenloaitin=Du Lịch">Du Lịch</a>
+								<a href="tintuc.php?loaitin=startup&tenloaitin=Start Up">Start Up</a>
 					        </li>
 					        <li>
 					        	<a href="tintuc.php?loaitin=so-hoa&tenloaitin=Số Hóa">Số Hóa</a>

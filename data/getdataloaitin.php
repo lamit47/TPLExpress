@@ -37,5 +37,17 @@
 		    }
 		}
 
+		$url_startup='https://vnexpress.net/rss/startup.rss';
+		$lines_array_startup=file($url_startup);
+		$lines_string_startup=implode('',$lines_array_startup);
+
+		$xml_startup = simplexml_load_string($lines_string_startup);
+		if ($xml_startup === false) {
+    		echo "Failed loading XML: ";
+    		foreach(libxml_get_errors() as $error) {
+				echo "<br>", $error->message;
+    		}
+		}
+
 	}
 ?>
