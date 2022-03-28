@@ -5,7 +5,7 @@
 - Deploy code: https://tpl-express.herokuapp.com/
 
 # TPLExpress-PHP Sample Code
-**[lamit47-PHP](https://github.com/lamit47/TPLExpress**)
+**[lamit47](https://github.com/lamit47/)
 
 ## Requirements
 - PHP 5.3 and above.
