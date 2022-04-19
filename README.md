@@ -7,25 +7,8 @@
 # TPLExpress-PHP Sample Code
 **[lamit47](https://github.com/lamit47/)
 
-## Requirements
-- PHP 5.3 and above.
-- Built-in libcurl support.
 
-
-### 1. Using Composer
-You can install the library via [Composer](https://getcomposer.org/). If you don't already have Composer installed, first install it by following one of these instructions depends on your OS of choice:
-* [Composer installation instruction for Windows](https://getcomposer.org/doc/00-intro.md#installation-windows)
-* [Composer installation instruction for Mac OS X and Linux](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx)
-
-After composer is installed, Then run the following command to install the Omise-PHP library:
-
-```
-php composer.phar install
-```
-
-Please see configuration section below for configuring your Omise Keys.
-
-### 2. Manually
+### Manually
 
 If you're not using Composer, you can also clone `omise/omise-php` repository into the directory of sample code that you just installed this repository:
 
